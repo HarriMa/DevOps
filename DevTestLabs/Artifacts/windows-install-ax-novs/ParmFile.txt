@@ -6,7 +6,6 @@ InstallClientUI=1
 ClientInstallType=1
 ClientAosServer=localhost
 CreateClientDesktopShortcut=1
-InstallVisualStudioTools2013=1
 InstallDebugger=1
 
 InstallAos=1
