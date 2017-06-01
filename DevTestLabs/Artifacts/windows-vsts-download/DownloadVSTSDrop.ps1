@@ -11,7 +11,7 @@ param(
     [string] $buildDefinitionName,
 
     [Parameter (Mandatory=$TRUE)]
-    [string] $vstsProjectUri,
+    [string] $vstsProjectUri
 
 )
 
