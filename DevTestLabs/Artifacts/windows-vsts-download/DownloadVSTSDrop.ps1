@@ -22,7 +22,7 @@ $vstsApiVersion = "2.0"
 
 # Script Variables
 $outfile = $PSScriptRoot + "\" + $buildDefinitionName + ".zip";
-$destination = $env:HOMEDRIVE + "\VSTS\";
+$destination = $env:HOMEDRIVE + "\VSTS";
 
 function SetAuthHeaders
 {
